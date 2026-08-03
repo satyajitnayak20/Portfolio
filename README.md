@@ -2,8 +2,8 @@
 
 A modern, responsive, and interactive developer portfolio built with **React**, **TypeScript**, and **Vite**. This portfolio showcases my projects, technical skills, resume, and provides a contact form for recruiters and collaborators to get in touch.
 
-🔗 **Live Demo:** [https://your-vercel-link.vercel.app](https://portifino-sepia.vercel.app/)  
-📂 **GitHub Repository:** https://github.com/satyajitnayak20/Portifino
+🔗 **Live Demo:** https://portfolio-seven-iota-zqeei9ir0i.vercel.app/  
+📂 **GitHub Repository:** https://github.com/satyajitnayak20/Portfolio
 
 
 ## ✨ Features
@@ -46,7 +46,6 @@ Portfolio/
 ├── public/
 ├── src/
 │   ├── imports/
-│   ├── assets/
 │   ├── App.tsx
 │   ├── main.tsx
 │   └── index.css
